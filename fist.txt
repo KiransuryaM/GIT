@@ -1,0 +1,3 @@
+to add remote location, command is git add remote origin URL 
+
+
